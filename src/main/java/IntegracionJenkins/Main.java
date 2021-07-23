@@ -16,7 +16,7 @@ public class Main {
         final int min_width = 2;
         
         //Dimension of the object
-        final int object_height = 12;
+        final int object_height=12;
         final int object_width=10;
         
         relOp.goodHeight(object_height, min_height, max_height);
